@@ -3,6 +3,7 @@
  *
  * Windows Scripting Host - Javascript (wsh-js) GTK GUI Example
  * 2020-02-09
+ * Go Namhyeon <gnh1201@gmail.com>
  * 
  * Requirements
  * * https://www.gtk-server.org/ (GTK-Server)
@@ -11,8 +12,6 @@
  * 
  * Notes
  * * GTK-Server is not supported GTK3 in Windows, so you have to use GTK2
- * 
- * Go Namhyeon <gnh1201@gmail.com>
  *
  */
 
