@@ -35,7 +35,7 @@ function main() {
 	var tmp, win, table, button, entry, text, radio1, radio2, even;
 	GTK("gtk_init NULL NULL");
 	win = GTK("gtk_window_new 0");
-	GTK("gtk_window_set_title " + win + " " + CHR(34) + "Visual Basic Script demo program using STDIN" + CHR(34));
+	GTK("gtk_window_set_title " + win + " " + CHR(34) + "WSH Javascript demo program using STDIN" + CHR(34));
 	GTK("gtk_widget_set_usize " + win + " 450 400");
 	table = GTK("gtk_table_new 50 50 1");
 	GTK("gtk_container_add " + win + " " + table );
