@@ -13,10 +13,8 @@ Function GTK(st)
 
     'Open the pipe and write
     gtkserver.StdIn.WriteLine st
-    WScript.Echo(st)
     'Get GTK-server response
     GTK = gtkserver.StdOut.ReadLine
-    WScript.Echo(GTK)
 	
 End Function
 
