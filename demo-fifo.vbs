@@ -15,7 +15,6 @@ Function Gtk(st)
 	out.Write st
 	'Get GTK-server response
 	GTK = pin.ReadLine
-        WScript.Echo(GTK)
 
 End Function
 
