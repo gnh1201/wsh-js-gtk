@@ -1,7 +1,7 @@
 /* 
  * gtk.wsh.js
  *
- * Windows Scripting Host - Javascript (wsh-js) GTK GUI Example
+ * Windows Scripting Host - Javascript (Microsoft JScript) (wsh-js) GTK GUI Example
  * 2020-02-09
  * Go Namhyeon <gnh1201@gmail.com>
  * 
@@ -60,7 +60,7 @@ function main() {
 			if(tmp.length > 1)
 				GTK("gtk_text_insert " + text + " NULL NULL NULL " + CHR(34) + tmp + CHR(10) + CHR(34) + " -1");
 			// Empty entry field
-			GTK("gtk_editable_delete_text " & entry & " 0 -1")
+			GTK("gtk_editable_delete_text " + entry + " 0 -1")
 		}
 	}
 
