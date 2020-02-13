@@ -20,4 +20,5 @@ Microsoft Windows 7, Microsoft Windows 10
 ![screenshot](https://raw.githubusercontent.com/gnh1201/wsh-js-gtk/master/screenshot.png)
 
 ## contact
+- Go Namhyeon <gnh1201@gmail.com>
 - support@exts.kr
