@@ -7,9 +7,11 @@ GTK GUI ported to Windows Scripting Host - Javascript (Microsoft JScript) (wsh-j
 * https://www.dlldosyaindir.com/dllindir/libffi-6-bit32.rar (libffi-6.dll)
 
 ## how to execute
+open command prompt and type
 ```
 C:\Users\John> cscript gtk.wsh.js
 ```
+or double click `gtk.wsh.js` in Windows Explorer
 
 ## screenshot
 ![screenshot](https://raw.githubusercontent.com/gnh1201/wsh-js-gtk/master/screenshot.png)
