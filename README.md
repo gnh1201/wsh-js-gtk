@@ -13,6 +13,9 @@ C:\Users\John> cscript gtk.wsh.js
 ```
 or double click `gtk.wsh.js` in Windows Explorer
 
+# tested in
+Microsoft Windows 7, Microsoft Windows 10
+
 ## screenshot
 ![screenshot](https://raw.githubusercontent.com/gnh1201/wsh-js-gtk/master/screenshot.png)
 
