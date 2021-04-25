@@ -1,8 +1,8 @@
 # wsh-js-gtk
 GTK GUI ported to Windows Scripting Host - Javascript (Microsoft JScript) (wsh.js)
 
-# New project!
-* [github:gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) (Build a Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA)
+## New project!
+* [github:gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) (ECMAScript 5, CommonJS, UMD compatibility, GTK/GladeXML supported)
 
 ## requirements
 * https://www.gtk-server.org/ (GTK-Server)
