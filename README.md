@@ -2,25 +2,27 @@
 GTK GUI ported to Windows Scripting Host - Javascript (Microsoft JScript) (wsh.js)
 
 ## New project!
-* [github:gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) (ECMAScript 5, CommonJS, UMD compatibility, GTK/GladeXML supported)
+* [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) (ES5 compatibility, GTK/GladeXML supported)
 
-## requirements
+## Requirements
 * https://www.gtk-server.org/ (GTK-Server)
 * https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer (GTK-for-Windows-Runtime-Environment-Installer)
 * https://www.dlldosyaindir.com/dllindir/libffi-6-bit32.rar (libffi-6.dll)
 
-## how to use
-open command prompt and type
+## How to use
+Open command prompt and type
+
 ```
 C:\Users\John> cscript gtk.wsh.js
 ```
+
 or double click `gtk.wsh.js` in Windows Explorer
 
-## tested in
+## Tested in
 Microsoft Windows 7, Microsoft Windows 10
 
-## screenshot
+## Screenshot
 ![screenshot](https://raw.githubusercontent.com/gnh1201/wsh-js-gtk/master/screenshot.png)
 
-## contacts
+## Contact me
 - Go Namhyeon <abuse@catswords.net>
