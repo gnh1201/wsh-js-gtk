@@ -3,7 +3,7 @@
  *
  * Windows Scripting Host - Javascript (Microsoft JScript) (wsh-js) GTK GUI Example
  * 2020-02-09
- * Go Namhyeon <gnh1201@gmail.com>
+ * Go Namhyeon <abuse@catswords.net>
  * 
  * Requirements
  * * https://www.gtk-server.org/ (GTK-Server)
